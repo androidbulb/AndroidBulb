@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/rajendrarox" target="blank"><img src="https://img.shields.io/twitter/follow/rajendrarox?logo=twitter&style=for-the-badge" alt="rajendrarox" /></a> </p>
 
-- 💬 Ask me about **Aide-Ide,Android Studio,SketchWare Pro/Studio**
+- 💬 Ask me about **Aide-Ide,Code Assist,Android Studio,SketchWare Pro/Studio etc**
 
 - 📫 How to reach me **developerrajendrahelp@gmail.com**
 
